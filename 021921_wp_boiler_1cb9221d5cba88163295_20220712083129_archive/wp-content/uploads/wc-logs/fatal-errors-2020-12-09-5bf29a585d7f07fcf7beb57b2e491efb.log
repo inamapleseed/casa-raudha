@@ -1,0 +1,8 @@
+2020-12-09T11:58:54+00:00 CRITICAL Uncaught YoastSEO_Vendor\Symfony\Component\DependencyInjection\Exception\ServiceNotFoundException: You have requested a non-existent service "Yoast\WP\SEO\Conditionals\Admin\Posts_Overview_Or_Ajax_Conditional". Did you mean this: "Yoast\WP\SEO\Conditionals\Posts_Overview_Or_Ajax_Conditional"? in /home/fcscommerce/public_html/woocom/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Container.php:307
+Stack trace:
+#0 /home/fcscommerce/public_html/woocom/wp-content/plugins/wordpress-seo/src/loader.php(230): YoastSEO_Vendor\Symfony\Component\DependencyInjection\Container->get('Yoast\\WP\\SEO\\Co...')
+#1 /home/fcscommerce/public_html/woocom/wp-content/plugins/wordpress-seo/src/loader.php(197): Yoast\WP\SEO\Loader->conditionals_are_met('Yoast\\WP\\SEO\\In...')
+#2 /home/fcscommerce/public_html/woocom/wp-includes/class-wp-hook.php(287): Yoast\WP\SEO\Loader->load_integrations('')
+#3 /home/fcscommerce/public_html/woocom/wp-includes/class-wp-hook.php(311): WP_Hook->apply_filters(NULL, Array)
+# in /home/fcscommerce/public_html/woocom/wp-content/plugins/wordpress-seo/vendor_prefixed/symfony/dependency-injection/Container.php on line 307
+

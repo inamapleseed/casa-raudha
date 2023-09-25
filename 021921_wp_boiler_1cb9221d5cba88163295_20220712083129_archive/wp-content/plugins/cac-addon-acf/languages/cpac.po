@@ -1,0 +1,74 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Admin Columns - ACF Addon\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-12-11 20:57+0100\n"
+"PO-Revision-Date: 2014-12-11 20:58+0100\n"
+"Last-Translator: Codepress <info@codepress.nl>\n"
+"Language-Team: Codepress <info@codepress.nl>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: .\n"
+"X-Poedit-SearchPathExcluded-0: ../codepress-admin-columns\n"
+
+#: ../cac-addon-acf.php:124
+msgid "Third Party Plugin integration"
+msgstr ""
+
+#: ../cac-addon-acf.php:172
+msgid "Admin Columns"
+msgstr ""
+
+#: ../cac-addon-acf.php:176 ../classes/column/acf-field.php:28
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: ../cac-addon-acf.php:187
+#, php-format
+msgid "%s and %s"
+msgstr ""
+
+#: ../cac-addon-acf.php:194
+#, php-format
+msgid "The ACF add-on is enabled but not effective. It requires %s in order to work."
+msgstr ""
+
+#: ../classes/column/acf-field-acf4.php:134
+#: ../classes/column/acf-field-acf5.php:133
+msgid "Invalid attachment"
+msgstr ""
+
+#: ../classes/column/acf-field-acf4.php:349
+#: ../classes/column/acf-field-acf5.php:413
+msgid "Field"
+msgstr ""
+
+#: ../classes/column/acf-field-acf4.php:349
+#: ../classes/column/acf-field-acf5.php:413
+msgid "Select your ACF field."
+msgstr ""
+
+#: ../classes/column/acf-field-acf4.php:363
+#: ../classes/column/acf-field-acf5.php:427
+msgid "No ACF fields available."
+msgstr ""
+
+#: ../classes/column/acf-field-acf5.php:421
+msgid "empty label"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Pro add-on"
+#~ msgstr "Get Admin Columns Pro"
+
+#, fuzzy
+#~ msgid "Add-ons updates"
+#~ msgstr "Add-ons"
